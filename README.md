@@ -1,5 +1,5 @@
 # React project
- hosted this project on https://lesnor.github.io/login
+ hosted this project on https://github.com/lesnor/lesnor.github.io
   * Creating and deleting posts
   * Sort by title and text
   * Search implemented
