@@ -1,0 +1,11 @@
+.MyLinks {
+  padding: 0 15px;
+
+  color: #000 !important;
+  text-decoration: none;
+  font-size: 16px;
+}
+.MyLinks:hover {
+  border-bottom: 2px solid black;
+  transition: border-bottom 0.3s;
+}
